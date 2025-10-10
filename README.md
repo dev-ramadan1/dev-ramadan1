@@ -1,16 +1,65 @@
-## Hi there 👋
+<h1 align="center">🚀 Dev Ramadan</h1>
+<h3 align="center">✨ Digital Alchemist • Full-Stack Developer × Graphic Designer</h3>
 
-<!--
-**dev-ramadan1/dev-ramadan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <i>"Transforming pixels into powerful experiences for 3+ years"</i>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎨 About Me
+
+I'm a **creative technologist** who bridges the gap between stunning visual design and robust technical implementation. I don't just write code – I craft digital experiences that marry aesthetic elegance with functional excellence.
+
+- 🖥️ **Full-Stack Architect** with expertise across the entire development spectrum
+- 🎯 **Pixel Perfectionist** who believes design and code should work in harmony  
+- ⚡ **3+ years** of turning complex problems into elegant solutions
+- 🌟 **Multi-disciplinary** thinker with skills spanning programming and visual design
+
+---
+
+### 🛠️ Tech Arsenal
+
+#### **Frontend Mastery**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+#### **Backend Power**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### **Creative Toolkit**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Adobe Creative Suite](https://img.shields.io/badge/Adobe_Creative_Suite-DA1F26?style=for-the-badge&logo=adobe&logoColor=white)
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  
+![Dev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-ramadan1&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ramadan1&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dev-ramadan1&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+### 🎭 What I Bring to the Table
+
+```javascript
+const devRamadan = {
+  code: ["JavaScript", "PHP", "Python", "C++"],
+  frontend: ["React", "Bootstrap", "HTML5", "CSS3"],
+  backend: ["PHP", "MySQL", "REST APIs"],
+  design: ["UI/UX Design", "Brand Identity", "Digital Graphics"],
+  philosophy: "Clean code × Beautiful design = Unforgettable experiences",
+  availableFor: ["Freelance Projects", "Collaborations", "Design-Dev Partnerships"]
+};
