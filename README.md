@@ -56,18 +56,6 @@ I'm a **creative technologist** who bridges the gap between stunning visual desi
 
 ---
 
-### 🎭 What I Bring to the Table
-
-```javascript
-const devRamadan = {
-  code: ["JavaScript", "PHP", "Python", "C++"],
-  frontend: ["React", "Bootstrap", "HTML5", "CSS3"],
-  backend: ["PHP", "MySQL", "REST APIs"],
-  design: ["UI/UX Design", "Brand Identity", "Digital Graphics"],
-  philosophy: "Clean code × Beautiful design = Unforgettable experiences",
-  availableFor: ["Freelance Projects", "Collaborations", "Design-Dev Partnerships"]
-};
-
 ## 📫 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://devramadan.wuaze.com)
@@ -78,3 +66,18 @@ const devRamadan = {
 ---
 
 ⭐ **From [dev-ramadan1](https://github.com/dev-ramadan1)**
+
+---
+
+### 🎭 What I Bring to the Table
+
+```javascript
+const devRamadan = {
+  code: ["JavaScript", "PHP", "Python", "NODE.JS", "C++"],
+  frontend: ["React", "Bootstrap", "HTML5", "CSS3"],
+  backend: ["PHP", "NODE.JS", "MySQL", "REST APIs"],
+  design: ["UI/UX Design", "Brand Identity", "Digital Graphics"],
+  philosophy: "Clean code × Beautiful design = Unforgettable experiences",
+  availableFor: ["Freelance Projects", "Collaborations", "Design-Dev Partnerships"]
+};
+
