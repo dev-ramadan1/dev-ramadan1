@@ -20,7 +20,7 @@
 
 ---
 
-## 🧠 About Me
+## 🧠 Who I Am
 
 I’m a **multi-disciplinary technologist** passionate about building **scalable, intelligent, and visually striking digital products**.
 
